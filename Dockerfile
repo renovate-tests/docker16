@@ -1,2 +1,2 @@
-FROM node:12.17.0@sha256:e4277bc7c389d6beefab40f79f67a17f19cc72bbaf002c46a9bbf910336ec7f9
+FROM node:14.3.0@sha256:53578f5d3cfa6529cb40ff4ce1658f644f9e13841a3bd6e049d74be294c0f37e
 RUN something
