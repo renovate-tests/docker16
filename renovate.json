@@ -1,8 +1,8 @@
 {
-  "docker": {
-    "major": {
-      "enabled": true
-    }
+  "packageRules": [{
+    "datasources": ["docker"],
+    "updateTypes": ["major"],
+    "enabled": true
   },
   "pinDigests": true
 }
